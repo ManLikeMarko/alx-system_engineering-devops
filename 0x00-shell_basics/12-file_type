@@ -1,2 +1,2 @@
 #!/bin/bash
-bash print_file_type.sh
+File /tmp/iamafile
