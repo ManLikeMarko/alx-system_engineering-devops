@@ -1,2 +1,2 @@
 #!/bin/bas
-mkdir -m 751 my_dirh
+chmod u+x 12-directory_permissions
