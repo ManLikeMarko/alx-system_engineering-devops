@@ -1,2 +1,2 @@
 #!/bin/bash
-euid=$(id -u)
+username=$(id -un $euid)
