@@ -1,2 +1,2 @@
-!#/git/bash
+#!/git/bash
 cat /etc/passwd
