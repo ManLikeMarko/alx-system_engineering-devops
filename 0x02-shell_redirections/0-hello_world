@@ -1,2 +1,2 @@
 !#/git/bash
-cat hello_world|lpr
+Print "Hello_world"
