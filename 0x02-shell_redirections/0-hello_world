@@ -1,0 +1,2 @@
+!#/git/bash
+cat hello_world|lpr
